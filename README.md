@@ -17,7 +17,7 @@ I’m a **Software Engineering student** focused on learning, building practical
 - Learning **Java, Spring Boot, React, and PostgreSQL**
 - Interested in **backend development, web applications, and software architecture**
 - Building real-world projects to strengthen my portfolio
-
+- teste aula
 ---
 
 ## Tech Stack
